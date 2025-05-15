@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingridiants 
 * Avacado
-* Lemon
+* Lime
 * Salt
 
